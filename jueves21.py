@@ -1,5 +1,7 @@
-
+#inventario RPG como lista
 inventario = ["espada", "antídoto", "poción"]
+
+#definiendo variables
 vida = 10
 
 print("estás en el piso 1 de la mazmorra")
@@ -7,6 +9,7 @@ print("tu vida actual es:", vida)
 print("tu inventario es")
 print(inventario)
 
+#básicamente se enseña como insertar un objeto en el inventario
 print("encuentras una poción")
 
 respuesta = input("¿coger la poción? si/no: ")
